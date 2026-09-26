@@ -1,0 +1,82 @@
+==============================================================================
+   CAP776 Minor Project #1: My Data, My Story
+   Personal Activity Intelligence Report
+==============================================================================
+Student Name     : Saurabh Kumar Pandey
+Registration No. : 12616002
+Course / Section : MCA
+Data File        : data\12616002.xlsx
+Worksheet        : Activity Log
+------------------------------------------------------------------------------
+Recording Period : 2026-08-21 to 2026-10-07
+Logged Days      : 48 / 36 expected days
+------------------------------------------------------------------------------
+
+1. Activity Data Summary (Daily Averages)
+------------------------------------------------------------------------------
+Expected number of days           : 36
+Valid days recorded               : 48
+Missing days                      : 0
+Invalid / excluded records        : 0
+Average Sleep / day               : 468.25 min/day (~7.80 hrs)
+Average Fitness / day             : 30.56 min/day (~0.51 hrs)
+Average Study / day               : 123.14 min/day (~2.05 hrs)
+Average Coding / day              : 154.11 min/day (~2.57 hrs)
+Average Class / day               : 139.06 min/day (~2.32 hrs)
+Average Other Activities / day    : 204.17 min/day (~3.40 hrs)
+Average Free / Unaccounted Time   : 320.72 min/day (~5.35 hrs)
+------------------------------------------------------------------------------
+
+2. Activity Index Values
+------------------------------------------------------------------------------
+Index Name                       Acronym  Value              Unit / Scale
+------------------------------------------------------------------------------
+Tech Productivity                TPI          154.11        min/day
+Academic Activity                AAI          262.19        min/day
+Physical Activity                PhAI          30.56        min/day
+Sleep & Recovery                 SRI          468.25        min/day
+Activity Balance                 ABI          320.72        min/day
+Time Utilization                 TUI         1119.28        min/day
+Experience Index                 EI             2.94        / 5
+Data Continuity Index            DCI          133.33        %
+------------------------------------------------------------------------------
+Personal Activity Index          PAI          348.64        composite score
+==============================================================================
+
+[Time Budget Balance Verification]
+Total Tracked (TUI) + Free Time (ABI) = 1119.28 + 320.72 = 1440.00 minutes
+24 Hours = 1440.00 minutes -> Variance = 0.00 minutes (100% time accounted for)
+
+==============================================================================
+   RELATIONSHIP ANALYSIS (Pearson Correlation Coefficient - r)
+==============================================================================
+
+1. Sleep <-> Energy:
+   r = +0.0766 (negligible positive relationship between Sleep Duration and Energy Level)
+   My Observation: My sleep duration and energy level did not show any noticeable relationship in my data.
+   [TODO: replace this with your own worded observation after reviewing your data]
+
+2. Study <-> Satisfaction:
+   r = -0.0898 (negligible negative relationship between Study Time and Satisfaction Level)
+   My Observation: My study time and satisfaction level did not show any noticeable relationship in my data.
+   [TODO: replace this with your own worded observation after reviewing your data]
+
+3. Coding <-> Energy:
+   r = -0.1082 (weak negative relationship between Coding Time and Energy Level)
+   My Observation: On days my coding time was higher, my energy level tended to be lower.
+   [TODO: replace this with your own worded observation after reviewing your data]
+
+==============================================================================
+   FINDINGS ABOUT MY ROUTINE & AREAS FOR IMPROVEMENT
+==============================================================================
+Findings About Myself:
+- [TODO: write 2-3 bullet points based on YOUR actual index values above.
+  e.g. which activity dominated your day, how consistent your logging was
+  (133% Data Continuity Index), etc.]
+
+Areas to Improve:
+- [TODO: based on your lowest index value(s) above, write what you plan to
+  change -- e.g. if Physical Activity Index (30.56 min/day) is low,
+  mention a plan to increase fitness time.]
+==============================================================================
+
